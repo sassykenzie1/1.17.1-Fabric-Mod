@@ -1,0 +1,6 @@
+{
+  "parent:": "block/cube_all",
+  "textures": {
+    "all": "bts:block/block_of_plastic"
+  }
+}
